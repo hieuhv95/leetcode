@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hieuhv95/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/hieuhv95/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/hieuhv95/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hieuhv95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hieuhv95/leetcode/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hieuhv95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/hieuhv95/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hieuhv95/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/hieuhv95/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/hieuhv95/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |

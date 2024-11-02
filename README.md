@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hieuhv95/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/hieuhv95/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/hieuhv95/leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/hieuhv95/leetcode/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/hieuhv95/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/hieuhv95/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
